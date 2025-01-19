@@ -1,0 +1,145 @@
+
+/* style-main.css */
+
+:root {
+    --primarycolor: #ffffff;
+    --secondarycolor: #f7bcf7;
+    --lightarycolor: #ffffff;
+    --bgcolor-1: #171a1c;
+    --bgcolor-2: #22282a;
+    --padding: 8%;
+}
+body{
+
+    background-color: #000000;
+}
+home{
+    background-color: #171a1c;
+
+}
+h1 {
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+font-size: 1cm;
+}
+  
+
+samp {
+    color: #a30606;
+}
+.one {
+width: 45px;
+height: auto;
+position: absolute;
+left: 39.5rem;
+}
+h2{
+    color: #000000;
+    position: absolute;
+
+    word-spacing:0.2cm;
+    left:35cm;
+    top: 0cm;
+    font-size: 1cm;
+
+}
+
+.two{
+    width: 45px;
+height: auto;
+position: absolute;
+left: 79rem;
+}
+
+.thre{
+    transform: scale(2.78);
+    opacity: 0.2;
+    position: absolute;
+    left: 14cm;
+    top: 7cm;
+}
+h3{
+    
+color: #ffffff;
+position: absolute;
+word-spacing:0.2cm;
+left:3.5cm;
+top: 5cm;
+font-size: 1cm;}
+.fore{
+    position: absolute;
+    left: 1cm;
+    top: 5cm;
+}
+.five{
+   position: absolute;
+   left :30.5cm;
+   top:2cm;
+   transform: scale(1);
+   border: 10px dashed rgb(88, 2, 60) ;
+
+
+}
+h4{
+    position: absolute;
+    left: 0.5cm;
+    top: 7cm;
+    color: #ffffff;
+    font-size: 1cm;
+}
+h5 {
+    color:#af9b9b ;
+    font-size: 1.2cm;
+    position: absolute;
+    left:3cm;
+    top: 8cm;
+    cursor: pointer;
+   
+}
+h6 {
+    color:#af9b9b;
+    font-size: 1.2cm;
+    position: absolute;
+    left: 3cm;
+    top:8.7cm ;
+    cursor: pointer;
+   
+}
+.st{
+    position: absolute;
+    left: 0.5cm;
+    top: 12cm;
+    color: #ffffff;
+    font-size: 1cm; 
+}
+.gc {
+    color:#af9b9b;
+    font-size: 1.2cm;
+    position: absolute;
+    left: 3cm;
+    top:12.7cm ;
+    cursor: pointer;
+}
+   
+    .ge {
+        color:#af9b9b;
+        font-size: 1.2cm;
+        position: absolute;
+        left: 3cm;
+        top:14cm ;
+        cursor: pointer;}
+        .gm {
+color:#af9b9b;
+  font-size: 1.2cm;
+   position: absolute;
+   left: 3cm;
+    top:15.3cm ;
+    cursor: pointer;
+} 
+            .gp {
+                color:#af9b9b;
+                font-size: 1.2cm;
+                position: absolute;
+                left: 3cm;
+                top:16.6cm ;
+            cursor: pointer;}
